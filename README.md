@@ -26,7 +26,6 @@ use _docker-compose_ to start up the service
 ```
 
 ## Service Endpoints
-The service has two endpoints that require authentication to POST & GET events. 
 
 ### Fetch stock endoint `GET /stock`:
 the endpoint accepts two params: `sku` & `country`
