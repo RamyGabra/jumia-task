@@ -58,7 +58,7 @@ type ProductStock struct {
 
 ```
 <br/>
-default value for stick is `0`
+default value for stock is zero.
 
 ## Design Decisions
 
